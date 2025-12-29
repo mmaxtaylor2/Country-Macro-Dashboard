@@ -1,0 +1,1503 @@
+country,year,value,indicator
+United States,2024,2.79300127716779,gdp
+United States,2023,2.88755600749487,gdp
+United States,2022,2.51237531986017,gdp
+United States,2021,6.05505293244555,gdp
+United States,2020,-2.16302914036166,gdp
+United States,2019,2.58382533412825,gdp
+United States,2018,2.96650506901305,gdp
+United States,2017,2.45762229852507,gdp
+United States,2016,1.81945147788167,gdp
+United States,2015,2.94555045484053,gdp
+United States,2014,2.52381981363968,gdp
+United States,2013,2.11783009790057,gdp
+United States,2012,2.28911338669843,gdp
+United States,2011,1.56440685763506,gdp
+United States,2010,2.69519257744442,gdp
+United States,2009,-2.57650022958367,gdp
+United States,2008,0.113587249881704,gdp
+United States,2007,2.00385829784946,gdp
+United States,2006,2.78453963650701,gdp
+United States,2005,3.48354993555606,gdp
+United States,2004,3.84777169556921,gdp
+United States,2003,2.79560596320081,gdp
+United States,2002,1.70044732643726,gdp
+United States,2001,0.955538348341605,gdp
+United States,2000,4.07758575682804,gdp
+United States,1999,4.78842504725272,gdp
+United States,1998,4.48313335374613,gdp
+United States,1997,4.44712793566428,gdp
+United States,1996,3.77277269119453,gdp
+United States,1995,2.6844307317787,gdp
+United States,1994,4.02902272983438,gdp
+United States,1993,2.75179586709815,gdp
+United States,1992,3.52249717301392,gdp
+United States,1991,-0.108312882368935,gdp
+United States,1990,1.88596558187626,gdp
+United States,1989,3.67223784383981,gdp
+United States,1988,4.1769823865164,gdp
+United States,1987,3.45462966856461,gdp
+United States,1986,3.46265505694664,gdp
+United States,1985,4.16957534699196,gdp
+United States,1984,7.23645316474058,gdp
+United States,1983,4.58379098362749,gdp
+United States,1982,-1.80301378934359,gdp
+United States,1981,2.53770126828974,gdp
+United States,1980,-0.256775731395592,gdp
+United States,1979,3.16598821816159,gdp
+United States,1978,5.53520648243719,gdp
+United States,1977,4.62418650601657,gdp
+United States,1976,5.38803391770217,gdp
+United States,1975,-0.205619191121627,gdp
+United States,1974,-0.540550192633191,gdp
+United States,1973,5.64567976314829,gdp
+United States,1972,5.25550195781351,gdp
+United States,1971,3.29272245005524,gdp
+United States,1970,0.216606498194878,gdp
+United States,1969,3.09999999999999,gdp
+United States,1968,4.7999999999997,gdp
+United States,1967,2.49999999999999,gdp
+United States,1966,6.50000000000021,gdp
+United States,1965,6.39999999999981,gdp
+United States,2024,2.94952520485207,inflation
+United States,2023,4.11633838374488,inflation
+United States,2022,8.00279982052121,inflation
+United States,2021,4.69785886363742,inflation
+United States,2020,1.23358439630629,inflation
+United States,2019,1.81221007526021,inflation
+United States,2018,2.44258329692817,inflation
+United States,2017,2.13011000365961,inflation
+United States,2016,1.26158320570536,inflation
+United States,2015,0.118627135552451,inflation
+United States,2014,1.62222297740817,inflation
+United States,2013,1.46483265562717,inflation
+United States,2012,2.06933726526067,inflation
+United States,2011,3.156841568622,inflation
+United States,2010,1.6400434423899,inflation
+United States,2009,-0.355546266299747,inflation
+United States,2008,3.839100296651,inflation
+United States,2007,2.85267248150138,inflation
+United States,2006,3.22594410070404,inflation
+United States,2005,3.3927468454955,inflation
+United States,2004,2.67723669309172,inflation
+United States,2003,2.27009497336115,inflation
+United States,2002,1.58603162650601,inflation
+United States,2001,2.82617111885407,inflation
+United States,2000,3.37685727149929,inflation
+United States,1999,2.18802719697358,inflation
+United States,1998,1.55227909874364,inflation
+United States,1997,2.33768993730735,inflation
+United States,1996,2.93120419993441,inflation
+United States,1995,2.80541968853662,inflation
+United States,1994,2.60744159215453,inflation
+United States,1993,2.95165696638559,inflation
+United States,1992,3.02881967814969,inflation
+United States,1991,4.23496396453849,inflation
+United States,1990,5.39795643990325,inflation
+United States,1989,4.82700303008944,inflation
+United States,1988,4.07774110744413,inflation
+United States,1987,3.6645632175169,inflation
+United States,1986,1.89804772234276,inflation
+United States,1985,3.54564415209365,inflation
+United States,1984,4.30053547523429,inflation
+United States,1983,3.21243523316065,inflation
+United States,1982,6.13142700027493,inflation
+United States,1981,10.3347153402771,inflation
+United States,1980,13.5492019749684,inflation
+United States,1979,11.2544711292795,inflation
+United States,1978,7.63096383885606,inflation
+United States,1977,6.5016839947284,inflation
+United States,1976,5.74481263549085,inflation
+United States,1975,9.14314686496535,inflation
+United States,1974,11.0548048048048,inflation
+United States,1973,6.17776006377038,inflation
+United States,1972,3.27227824655283,inflation
+United States,1971,4.29276668813051,inflation
+United States,1970,5.83825533848251,inflation
+United States,1969,5.46238620028745,inflation
+United States,1968,4.27179615288537,inflation
+United States,1967,2.77278562259309,inflation
+United States,1966,3.0150753768844,inflation
+United States,1965,1.58516926383662,inflation
+United States,2024,4.106,unemployment
+United States,2023,3.638,unemployment
+United States,2022,3.65,unemployment
+United States,2021,5.349,unemployment
+United States,2020,8.055,unemployment
+United States,2019,3.669,unemployment
+United States,2018,3.896,unemployment
+United States,2017,4.355,unemployment
+United States,2016,4.869,unemployment
+United States,2015,5.28,unemployment
+United States,2014,6.168,unemployment
+United States,2013,7.375,unemployment
+United States,2012,8.069,unemployment
+United States,2011,8.949,unemployment
+United States,2010,9.633,unemployment
+United States,2009,9.254,unemployment
+United States,2008,5.784,unemployment
+United States,2007,4.622,unemployment
+United States,2006,4.623,unemployment
+United States,2005,5.084,unemployment
+United States,2004,5.529,unemployment
+United States,2003,5.989,unemployment
+United States,2002,5.783,unemployment
+United States,2001,4.731,unemployment
+United States,2000,3.992,unemployment
+United States,1999,4.219,unemployment
+United States,1998,4.511,unemployment
+United States,1997,5.0,unemployment
+United States,1996,5.451,unemployment
+United States,1995,5.65,unemployment
+United States,1994,6.119,unemployment
+United States,1993,6.9,unemployment
+United States,1992,7.5,unemployment
+United States,1991,6.8,unemployment
+China,2024,4.9773565917572,gdp
+China,2023,5.41484330099675,gdp
+China,2022,3.1341888719577,gdp
+China,2021,8.57008513166322,gdp
+China,2020,2.34018843078414,gdp
+China,2019,6.06850235053705,gdp
+China,2018,6.75671800166833,gdp
+China,2017,6.8912663621211,gdp
+China,2016,6.77555562837017,gdp
+China,2015,6.97878002657477,gdp
+China,2014,7.46190028229434,gdp
+China,2013,7.77872409446717,gdp
+China,2012,7.85617427055587,gdp
+China,2011,9.4613358870736,gdp
+China,2010,10.5962719761682,gdp
+China,2009,9.40269972778044,gdp
+China,2008,9.67024588602851,gdp
+China,2007,14.1499854947127,gdp
+China,2006,12.6746751655235,gdp
+China,2005,11.458238455067,gdp
+China,2004,10.1314073631003,gdp
+China,2003,10.1181928640117,gdp
+China,2002,9.24339326638321,gdp
+China,2001,8.31263887091522,gdp
+China,2000,8.58643201808462,gdp
+China,1999,7.7370030581299,gdp
+China,1998,7.92079207933551,gdp
+China,1997,9.2876465280865,gdp
+China,1996,9.97619992053447,gdp
+China,1995,11.0328121562746,gdp
+China,1994,13.0727091631599,gdp
+China,1993,13.9290780143689,gdp
+China,1992,14.2996108947926,gdp
+China,1991,9.36170212784847,gdp
+China,1990,3.9416305983694,gdp
+China,1989,4.20633435547828,gdp
+China,1988,11.2225949825209,gdp
+China,1987,11.6282225655699,gdp
+China,1986,8.93506493506504,gdp
+China,1985,13.435474366529,gdp
+China,1984,15.2325609955089,gdp
+China,1983,10.7273706842105,gdp
+China,1982,9.05928417062999,gdp
+China,1981,5.11276109058952,gdp
+China,1980,7.83414501593799,gdp
+China,1979,7.59132468000007,gdp
+China,1978,11.3259779878892,gdp
+China,1977,7.57000000138403,gdp
+China,1976,-1.57000000165326,gdp
+China,1975,8.71999999747992,gdp
+China,1974,2.31000000294736,gdp
+China,1973,7.76000000084325,gdp
+China,1972,3.81000000021984,gdp
+China,1971,7.05999999853672,gdp
+China,1970,19.2999999967022,gdp
+China,1969,16.9399999960609,gdp
+China,1968,-4.09999998647768,gdp
+China,1967,-5.77000000405148,gdp
+China,1966,10.6499999984174,gdp
+China,1965,16.9500000038699,gdp
+China,2024,0.218128938439177,inflation
+China,2023,0.234836828893051,inflation
+China,2022,1.97357555739051,inflation
+China,2021,0.981015135544882,inflation
+China,2020,2.41942189457782,inflation
+China,2019,2.89923416358227,inflation
+China,2018,2.07479039965576,inflation
+China,2017,1.59313600071436,inflation
+China,2016,2.00000182191943,inflation
+China,2015,1.43702380935655,inflation
+China,2014,1.92164162788521,inflation
+China,2013,2.62105001748115,inflation
+China,2012,2.61952432645541,inflation
+China,2011,5.55389892257493,inflation
+China,2010,3.17532475269199,inflation
+China,2009,-0.728165250932898,inflation
+China,2008,5.92525137041092,inflation
+China,2007,4.81676767378834,inflation
+China,2006,1.6494309945586,inflation
+China,2005,1.77641407667571,inflation
+China,2004,3.82463743108159,inflation
+China,2003,1.12760348729637,inflation
+China,2002,-0.731970902350244,inflation
+China,2001,0.719125609120114,inflation
+China,2000,0.347811226864587,inflation
+China,1999,-1.40147268276465,inflation
+China,1998,-0.773186011549318,inflation
+China,1997,2.78646505531882,inflation
+China,1996,8.31316028893909,inflation
+China,1995,16.7912251650916,inflation
+China,1994,24.2569897243361,inflation
+China,1993,14.6100786356602,inflation
+China,1992,6.35398134024869,inflation
+China,1991,3.55668565220452,inflation
+China,1990,3.05229012075233,inflation
+China,1989,18.2456383621648,inflation
+China,1988,18.8118179448753,inflation
+China,1987,7.23383553065609,inflation
+China,2024,4.571,unemployment
+China,2023,4.67,unemployment
+China,2022,4.98,unemployment
+China,2021,4.55,unemployment
+China,2020,5.0,unemployment
+China,2019,4.56,unemployment
+China,2018,4.31,unemployment
+China,2017,4.47,unemployment
+China,2016,4.56,unemployment
+China,2015,4.65,unemployment
+China,2014,4.63,unemployment
+China,2013,4.6,unemployment
+China,2012,4.58,unemployment
+China,2011,4.55,unemployment
+China,2010,4.53,unemployment
+China,2009,4.72,unemployment
+China,2008,4.59,unemployment
+China,2007,4.35,unemployment
+China,2006,4.43,unemployment
+China,2005,4.52,unemployment
+China,2004,4.49,unemployment
+China,2003,4.58,unemployment
+China,2002,4.24,unemployment
+China,2001,3.8,unemployment
+China,2000,3.26,unemployment
+China,1999,3.25,unemployment
+China,1998,3.24,unemployment
+China,1997,3.23,unemployment
+China,1996,3.12,unemployment
+China,1995,3.0,unemployment
+China,1994,2.9,unemployment
+China,1993,2.69,unemployment
+China,1992,2.37,unemployment
+China,1991,2.37,unemployment
+Japan,2024,0.104309021773304,gdp
+Japan,2023,1.47503481053384,gdp
+Japan,2022,0.941998775483285,gdp
+Japan,2021,2.69657404187188,gdp
+Japan,2020,-4.16876457146743,gdp
+Japan,2019,-0.402169200894946,gdp
+Japan,2018,0.643391023533141,gdp
+Japan,2017,1.67533175173359,gdp
+Japan,2016,0.753826745789127,gdp
+Japan,2015,1.56062669680782,gdp
+Japan,2014,0.296205514141889,gdp
+Japan,2013,2.00510017681211,gdp
+Japan,2012,1.37475099905274,gdp
+Japan,2011,0.0238095237995424,gdp
+Japan,2010,4.09791791943181,gdp
+Japan,2009,-5.69323635892741,gdp
+Japan,2008,-1.22428900061713,gdp
+Japan,2007,1.48396941157472,gdp
+Japan,2006,1.3723501275831,gdp
+Japan,2005,1.80390087215821,gdp
+Japan,2004,2.18611569439318,gdp
+Japan,2003,1.53512549946694,gdp
+Japan,2002,0.0419624992862282,gdp
+Japan,2001,0.386103426142029,gdp
+Japan,2000,2.76464755136783,gdp
+Japan,1999,-0.333929957687772,gdp
+Japan,1998,-1.27033049466078,gdp
+Japan,1997,0.981228732290873,gdp
+Japan,1996,3.13387099272759,gdp
+Japan,1995,2.6309996164206,gdp
+Japan,1994,1.0833831743207,gdp
+Japan,1993,-0.459219716250544,gdp
+Japan,1992,0.900586066438109,gdp
+Japan,1991,3.52335723553459,gdp
+Japan,1990,4.84092905699353,gdp
+Japan,1989,4.92578541317788,gdp
+Japan,1988,6.66163652210332,gdp
+Japan,1987,4.64886139743521,gdp
+Japan,1986,3.29404761349421,gdp
+Japan,1985,5.15980790450274,gdp
+Japan,1984,4.41088015355157,gdp
+Japan,1983,3.63019857277,gdp
+Japan,1982,3.27974274279195,gdp
+Japan,1981,4.26062449361741,gdp
+Japan,1980,2.81759120759222,gdp
+Japan,1979,5.48404183215798,gdp
+Japan,1978,5.2719415031039,gdp
+Japan,1977,4.39033795035795,gdp
+Japan,1976,3.97498409081336,gdp
+Japan,1975,3.09157591647113,gdp
+Japan,1974,-1.22523982783679,gdp
+Japan,1973,8.03259997458163,gdp
+Japan,1972,8.41354725566508,gdp
+Japan,1971,4.6989920420522,gdp
+Japan,1970,0.399050644662367,gdp
+Japan,1969,12.4778945144981,gdp
+Japan,1968,12.8824681383231,gdp
+Japan,1967,11.0821423246932,gdp
+Japan,1966,10.6385615591631,gdp
+Japan,1965,5.81970787298197,gdp
+Japan,2024,2.73853681635241,inflation
+Japan,2023,3.26813365933163,inflation
+Japan,2022,2.49770278172255,inflation
+Japan,2021,-0.233352779398264,inflation
+Japan,2020,-0.024995834027731,inflation
+Japan,2019,0.46877615938395,inflation
+Japan,2018,0.989094598021848,inflation
+Japan,2017,0.484199796126385,inflation
+Japan,2016,-0.127258844489754,inflation
+Japan,2015,0.795279630579839,inflation
+Japan,2014,2.75922671353253,inflation
+Japan,2013,0.335037912184741,inflation
+Japan,2012,-0.0440645104432602,inflation
+Japan,2011,-0.27245561610124,inflation
+Japan,2010,-0.728243207517779,inflation
+Japan,2009,-1.35283672951719,inflation
+Japan,2008,1.3800788616492,inflation
+Japan,2007,0.060039454498669,inflation
+Japan,2006,0.249355116079085,inflation
+Japan,2005,-0.282946068764391,inflation
+Japan,2004,-0.00857338820310272,inflation
+Japan,2003,-0.256541816316025,inflation
+Japan,2002,-0.923494026942321,inflation
+Japan,2001,-0.740055504162738,inflation
+Japan,2000,-0.676578683595175,inflation
+Japan,1999,-0.341296928327554,inflation
+Japan,1998,0.661974191385911,inflation
+Japan,1997,1.74780458692133,inflation
+Japan,1996,0.136600358575909,inflation
+Japan,1995,-0.127899045020446,inflation
+Japan,1994,0.695458057869004,inflation
+Japan,1993,1.24304589707924,inflation
+Japan,1992,1.7602830605927,inflation
+Japan,1991,3.25143848753308,inflation
+Japan,1990,3.0785162869516,inflation
+Japan,1989,2.27228962064317,inflation
+Japan,1988,0.678557580457558,inflation
+Japan,1987,0.126176841696583,inflation
+Japan,1986,0.595586799453249,inflation
+Japan,1985,2.0322773460849,inflation
+Japan,1984,2.26161369193155,inflation
+Japan,1983,1.89971971348485,inflation
+Japan,1982,2.7410409556314,inflation
+Japan,1981,4.91216291820523,inflation
+Japan,1980,7.77858176555718,inflation
+Japan,1979,3.70185092546269,inflation
+Japan,1978,4.20956601068681,inflation
+Japan,1977,8.16182689596842,inflation
+Japan,1976,9.37403638606234,inflation
+Japan,1975,11.7312661498708,inflation
+Japan,1974,23.2222458076842,inflation
+Japan,1973,11.6086235489221,inflation
+Japan,1972,4.84351713859905,inflation
+Japan,1971,6.39534883720926,inflation
+Japan,1970,6.92417383485781,inflation
+Japan,1969,5.24982091102027,inflation
+Japan,1968,5.33943295739344,inflation
+Japan,1967,3.98984808881518,inflation
+Japan,1966,5.04083205887676,inflation
+Japan,1965,6.65599094260621,inflation
+Japan,2024,2.563,unemployment
+Japan,2023,2.6,unemployment
+Japan,2022,2.6,unemployment
+Japan,2021,2.828,unemployment
+Japan,2020,2.809,unemployment
+Japan,2019,2.351,unemployment
+Japan,2018,2.467,unemployment
+Japan,2017,2.822,unemployment
+Japan,2016,3.132,unemployment
+Japan,2015,3.385,unemployment
+Japan,2014,3.589,unemployment
+Japan,2013,4.038,unemployment
+Japan,2012,4.358,unemployment
+Japan,2011,4.55,unemployment
+Japan,2010,5.102,unemployment
+Japan,2009,5.068,unemployment
+Japan,2008,4.002,unemployment
+Japan,2007,3.888,unemployment
+Japan,2006,4.192,unemployment
+Japan,2005,4.446,unemployment
+Japan,2004,4.734,unemployment
+Japan,2003,5.251,unemployment
+Japan,2002,5.386,unemployment
+Japan,2001,5.02,unemployment
+Japan,2000,4.748,unemployment
+Japan,1999,4.677,unemployment
+Japan,1998,4.078,unemployment
+Japan,1997,3.374,unemployment
+Japan,1996,3.383,unemployment
+Japan,1995,3.15,unemployment
+Japan,1994,2.89,unemployment
+Japan,1993,2.539,unemployment
+Japan,1992,2.158,unemployment
+Japan,1991,2.059,unemployment
+Germany,2024,-0.495851897260366,gdp
+Germany,2023,-0.869647578573321,gdp
+Germany,2022,1.8092581243061,gdp
+Germany,2021,3.90999994204108,gdp
+Germany,2020,-4.13191443239947,gdp
+Germany,2019,0.977734697038784,gdp
+Germany,2018,1.13569604599849,gdp
+Germany,2017,2.797906720551,gdp
+Germany,2016,2.22222216259371,gdp
+Germany,2015,1.66300602334775,gdp
+Germany,2014,2.18018602168017,gdp
+Germany,2013,0.396995583779145,gdp
+Germany,2012,0.463512036709204,gdp
+Germany,2011,3.75796884489337,gdp
+Germany,2010,4.13463778522758,gdp
+Germany,2009,-5.54455451920674,gdp
+Germany,2008,0.887902330743628,gdp
+Germany,2007,2.8891174138025,gdp
+Germany,2006,3.86668241523209,gdp
+Germany,2005,0.885485292551564,gdp
+Germany,2004,1.16208684507278,gdp
+Germany,2003,-0.529801394291297,gdp
+Germany,2002,-0.228255715793637,gdp
+Germany,2001,1.63614170690956,gdp
+Germany,2000,2.8765231247659,gdp
+Germany,1999,2.12957016297766,gdp
+Germany,1998,2.09561231172233,gdp
+Germany,1997,1.85432238398302,gdp
+Germany,1996,1.0378755674358,gdp
+Germany,1995,1.50499384201356,gdp
+Germany,1994,2.59685569693275,gdp
+Germany,1993,-0.973033082340891,gdp
+Germany,1992,2.01361340926105,gdp
+Germany,1991,5.10826150190911,gdp
+Germany,1990,5.25500610110028,gdp
+Germany,1989,3.89655170553733,gdp
+Germany,1988,3.70723567991882,gdp
+Germany,1987,1.4021515883601,gdp
+Germany,1986,2.28733925852798,gdp
+Germany,1985,2.32793520067574,gdp
+Germany,1984,2.82294783585535,gdp
+Germany,1983,1.57241014192158,gdp
+Germany,1982,-0.394840735634787,gdp
+Germany,1981,0.529240541969116,gdp
+Germany,1980,1.40882864441943,gdp
+Germany,1979,4.15036333786591,gdp
+Germany,1978,3.00849288842491,gdp
+Germany,1977,3.34721808033223,gdp
+Germany,1976,4.94925843456397,gdp
+Germany,1975,-0.866738936529003,gdp
+Germany,1974,0.890068699312494,gdp
+Germany,1973,4.77748690945469,gdp
+Germany,1972,4.30034129247663,gdp
+Germany,1971,3.13269976979846,gdp
+Germany,1970,5.1031445446857,gdp
+Germany,1969,7.41810275269879,gdp
+Germany,1968,5.66877305970866,gdp
+Germany,1967,-0.330256485487652,gdp
+Germany,1966,2.81218127523877,gdp
+Germany,1965,5.24416405342727,gdp
+Germany,2024,2.2564981433876,inflation
+Germany,2023,5.94643667725823,inflation
+Germany,2022,6.87257438551097,inflation
+Germany,2021,3.06666666666673,inflation
+Germany,2020,0.144877925813982,inflation
+Germany,2019,1.44565976888253,inflation
+Germany,2018,1.73216879766942,inflation
+Germany,2017,1.50949485109628,inflation
+Germany,2016,0.491747008445174,inflation
+Germany,2015,0.514426137125456,inflation
+Germany,2014,0.906794000434246,inflation
+Germany,2013,1.50472330251876,inflation
+Germany,2012,2.00848884782956,inflation
+Germany,2011,2.07517283735874,inflation
+Germany,2010,1.1038103778926,inflation
+Germany,2009,0.312739007368447,inflation
+Germany,2008,2.62837981637219,inflation
+Germany,2007,2.29834400700951,inflation
+Germany,2006,1.57742642840563,inflation
+Germany,2005,1.54691114751328,inflation
+Germany,2004,1.66573696655992,inflation
+Germany,2003,1.03422218628562,inflation
+Germany,2002,1.42080615551526,inflation
+Germany,2001,1.98385731334471,inflation
+Germany,2000,1.44026838719741,inflation
+Germany,1999,0.585433064230783,inflation
+Germany,1998,0.911183535014403,inflation
+Germany,1997,1.93937198922729,inflation
+Germany,1996,1.44972701963239,inflation
+Germany,1995,1.70616041317076,inflation
+Germany,1994,2.69305639854954,inflation
+Germany,1993,4.47457650752808,inflation
+Germany,1992,5.05697796731731,inflation
+Germany,1991,4.04703259753466,inflation
+Germany,1990,2.69646824292392,inflation
+Germany,1989,2.78056955569751,inflation
+Germany,1988,1.27411894006923,inflation
+Germany,1987,0.24990610870503,inflation
+Germany,1986,-0.129413360854742,inflation
+Germany,1985,2.0662330121658,inflation
+Germany,1984,2.4057933993196,inflation
+Germany,1983,3.29341474302854,inflation
+Germany,1982,5.24104507228422,inflation
+Germany,1981,6.34424277746325,inflation
+Germany,1980,5.44105754460347,inflation
+Germany,1979,4.04362006473399,inflation
+Germany,1978,2.71869696123339,inflation
+Germany,1977,3.73416240635147,inflation
+Germany,1976,4.24663102299209,inflation
+Germany,1975,5.91033626324104,inflation
+Germany,1974,6.98643109327497,inflation
+Germany,1973,7.03202399303898,inflation
+Germany,1972,5.4849331221432,inflation
+Germany,1971,5.24097448273094,inflation
+Germany,1970,3.45024936360895,inflation
+Germany,1969,1.91267848797596,inflation
+Germany,1968,1.470289313277,inflation
+Germany,1967,1.79604992213175,inflation
+Germany,1966,3.53306035477689,inflation
+Germany,1965,3.24231923668133,inflation
+Germany,2024,3.406,unemployment
+Germany,2023,3.068,unemployment
+Germany,2022,3.12,unemployment
+Germany,2021,3.594,unemployment
+Germany,2020,3.881,unemployment
+Germany,2019,3.163,unemployment
+Germany,2018,3.384,unemployment
+Germany,2017,3.781,unemployment
+Germany,2016,4.104,unemployment
+Germany,2015,4.612,unemployment
+Germany,2014,4.979,unemployment
+Germany,2013,5.316,unemployment
+Germany,2012,5.372,unemployment
+Germany,2011,5.967,unemployment
+Germany,2010,7.043,unemployment
+Germany,2009,7.88,unemployment
+Germany,2008,7.508,unemployment
+Germany,2007,8.732,unemployment
+Germany,2006,10.277,unemployment
+Germany,2005,11.193,unemployment
+Germany,2004,10.727,unemployment
+Germany,2003,9.779,unemployment
+Germany,2002,8.482,unemployment
+Germany,2001,7.773,unemployment
+Germany,2000,7.917,unemployment
+Germany,1999,8.854,unemployment
+Germany,1998,9.787,unemployment
+Germany,1997,9.861,unemployment
+Germany,1996,8.822,unemployment
+Germany,1995,8.158,unemployment
+Germany,1994,8.727,unemployment
+Germany,1993,7.675,unemployment
+Germany,1992,6.323,unemployment
+Germany,1991,5.316,unemployment
+India,2024,6.49476552383821,gdp
+India,2023,9.19075493028345,gdp
+India,2022,7.60936497768895,gdp
+India,2021,9.68959249192875,gdp
+India,2020,-5.77772470686801,gdp
+India,2019,3.87143694070356,gdp
+India,2018,6.45385134497769,gdp
+India,2017,6.79538341897911,gdp
+India,2016,8.25630550179086,gdp
+India,2015,7.99625378571471,gdp
+India,2014,7.41022760508854,gdp
+India,2013,6.38610640094825,gdp
+India,2012,5.45638755166587,gdp
+India,2011,5.24131619937695,gdp
+India,2010,8.49758470221235,gdp
+India,2009,7.86188883286074,gdp
+India,2008,3.08669805921981,gdp
+India,2007,7.6608150670107,gdp
+India,2006,8.06073257166651,gdp
+India,2005,7.92343062148318,gdp
+India,2004,7.92293661199932,gdp
+India,2003,7.8603814759073,gdp
+India,2002,3.80397532112175,gdp
+India,2001,4.82396626555771,gdp
+India,2000,3.84099115659129,gdp
+India,1999,8.84575555939531,gdp
+India,1998,6.18441582172117,gdp
+India,1997,4.04982084998183,gdp
+India,1996,7.54952224920051,gdp
+India,1995,7.57449183788519,gdp
+India,1994,6.65892407028434,gdp
+India,1993,4.75077621776924,gdp
+India,1992,5.48239602040357,gdp
+India,1991,1.05683143496063,gdp
+India,1990,5.53345456125301,gdp
+India,1989,5.94734333181324,gdp
+India,1988,9.62778291607844,gdp
+India,1987,3.96535563481719,gdp
+India,1986,4.77656416847516,gdp
+India,1985,5.25429922311382,gdp
+India,1984,3.82073785610604,gdp
+India,1983,7.28889290305703,gdp
+India,1982,3.47573323969961,gdp
+India,1981,6.00620362601497,gdp
+India,1980,6.7358215288198,gdp
+India,1979,-5.23818270446218,gdp
+India,1978,5.71253208869331,gdp
+India,1977,7.25476458760367,gdp
+India,1976,1.66310363813034,gdp
+India,1975,9.14991201570659,gdp
+India,1974,1.18533625466961,gdp
+India,1973,3.29552113471652,gdp
+India,1972,-0.553301305344547,gdp
+India,1971,1.64293037527582,gdp
+India,1970,5.15722973718955,gdp
+India,1969,6.53970029928357,gdp
+India,1968,3.38792917634143,gdp
+India,1967,7.82596303082235,gdp
+India,1966,-0.0553287704537979,gdp
+India,1965,-2.63577011020728,gdp
+India,2024,4.95303550973656,inflation
+India,2023,5.64914318907925,inflation
+India,2022,6.69903414079852,inflation
+India,2021,5.13140747176369,inflation
+India,2020,6.62343677628535,inflation
+India,2019,3.72950573539129,inflation
+India,2018,3.9388264669163,inflation
+India,2017,3.32817337461298,inflation
+India,2016,4.94821634062141,inflation
+India,2015,4.90697344127256,inflation
+India,2014,6.66565671867899,inflation
+India,2013,10.0178784746102,inflation
+India,2012,9.47899691419801,inflation
+India,2011,8.91179336483371,inflation
+India,2010,11.9893899204244,inflation
+India,2009,10.8823529411764,inflation
+India,2008,8.34926704907581,inflation
+India,2007,6.37288135593231,inflation
+India,2006,5.79652337561634,inflation
+India,2005,4.24634362031922,inflation
+India,2004,3.76725173477515,inflation
+India,2003,3.80585899528851,inflation
+India,2002,4.29715203929563,inflation
+India,2001,3.77929312235637,inflation
+India,2000,4.0094359104519,inflation
+India,1999,4.66982038037594,inflation
+India,1998,13.2308389767977,inflation
+India,1997,7.16425211462724,inflation
+India,1996,8.97715233826453,inflation
+India,1995,10.2248861637544,inflation
+India,1994,10.2479355556119,inflation
+India,1993,6.32689048779867,inflation
+India,1992,11.7878170418134,inflation
+India,1991,13.8702461773683,inflation
+India,1990,8.9712325027325,inflation
+India,1989,7.07428002942301,inflation
+India,1988,9.38347186185335,inflation
+India,1987,8.80112581251833,inflation
+India,1986,8.72972072702581,inflation
+India,1985,5.55642423236554,inflation
+India,1984,8.3189071186008,inflation
+India,1983,11.8680812986734,inflation
+India,1982,7.89074279377487,inflation
+India,1981,13.112546897642,inflation
+India,1980,11.3460734795095,inflation
+India,1979,6.27568336762335,inflation
+India,1978,2.5230487569518,inflation
+India,1977,8.30747009171166,inflation
+India,1976,-7.63394763392882,inflation
+India,1975,5.74843029767437,inflation
+India,1974,28.598734077509,inflation
+India,1973,16.9408159791736,inflation
+India,1972,6.44209746158243,inflation
+India,1971,3.07993868406537,inflation
+India,1970,5.09226161997552,inflation
+India,1969,-0.584136610466349,inflation
+India,1968,3.23741242627502,inflation
+India,1967,13.062202477797,inflation
+India,1966,10.8018483489342,inflation
+India,1965,9.47475859170699,inflation
+India,2024,4.202,unemployment
+India,2023,4.172,unemployment
+India,2022,4.822,unemployment
+India,2021,6.38,unemployment
+India,2020,7.859,unemployment
+India,2019,6.51,unemployment
+India,2018,7.652,unemployment
+India,2017,7.618,unemployment
+India,2016,7.601,unemployment
+India,2015,7.631,unemployment
+India,2014,7.674,unemployment
+India,2013,7.711,unemployment
+India,2012,7.666,unemployment
+India,2011,7.616,unemployment
+India,2010,7.652,unemployment
+India,2009,7.664,unemployment
+India,2008,7.656,unemployment
+India,2007,7.561,unemployment
+India,2006,7.552,unemployment
+India,2005,7.552,unemployment
+India,2004,7.625,unemployment
+India,2003,7.68,unemployment
+India,2002,7.753,unemployment
+India,2001,7.653,unemployment
+India,2000,7.624,unemployment
+India,1999,7.617,unemployment
+India,1998,7.639,unemployment
+India,1997,7.61,unemployment
+India,1996,7.558,unemployment
+India,1995,7.608,unemployment
+India,1994,7.645,unemployment
+India,1993,7.75,unemployment
+India,1992,7.733,unemployment
+India,1991,7.722,unemployment
+United Kingdom,2024,1.1264226705118,gdp
+United Kingdom,2023,0.271650048355255,gdp
+United Kingdom,2022,5.14970388522993,gdp
+United Kingdom,2021,8.5431118453255,gdp
+United Kingdom,2020,-10.047896637362,gdp
+United Kingdom,2019,1.25629899760824,gdp
+United Kingdom,2018,1.55133095078786,gdp
+United Kingdom,2017,3.02322219840339,gdp
+United Kingdom,2016,2.20652020635357,gdp
+United Kingdom,2015,2.14040560033371,gdp
+United Kingdom,2014,3.16017351468152,gdp
+United Kingdom,2013,1.71846961308464,gdp
+United Kingdom,2012,1.52826034721852,gdp
+United Kingdom,2011,0.851437739020326,gdp
+United Kingdom,2010,2.26054460931586,gdp
+United Kingdom,2009,-4.58740819226323,gdp
+United Kingdom,2008,-0.0494116727402769,gdp
+United Kingdom,2007,2.93091133582351,gdp
+United Kingdom,2006,2.18982132415704,gdp
+United Kingdom,2005,2.7906547174688,gdp
+United Kingdom,2004,2.32601853325993,gdp
+United Kingdom,2003,3.21851612669614,gdp
+United Kingdom,2002,1.70902736258567,gdp
+United Kingdom,2001,2.39102229602824,gdp
+United Kingdom,2000,4.52438074810904,gdp
+United Kingdom,1999,2.94445869854798,gdp
+United Kingdom,1998,3.24631482881618,gdp
+United Kingdom,1997,4.8799853038024,gdp
+United Kingdom,1996,2.61491606949487,gdp
+United Kingdom,1995,3.53339096338078,gdp
+United Kingdom,1994,4.95341092800692,gdp
+United Kingdom,1993,3.49048744653493,gdp
+United Kingdom,1992,1.29472849604493,gdp
+United Kingdom,1991,-1.29243974751705,gdp
+United Kingdom,1990,0.779266119883417,gdp
+United Kingdom,1989,2.28144671930745,gdp
+United Kingdom,1988,5.0321018040183,gdp
+United Kingdom,1987,4.56208082572655,gdp
+United Kingdom,1986,4.01232987098167,gdp
+United Kingdom,1985,3.59938143817158,gdp
+United Kingdom,1984,2.67092491032817,gdp
+United Kingdom,1983,3.62434641923983,gdp
+United Kingdom,1982,2.09306886432368,gdp
+United Kingdom,1981,-1.3234581733779,gdp
+United Kingdom,1980,-2.17910220206564,gdp
+United Kingdom,1979,2.74677219709527,gdp
+United Kingdom,1978,3.40337382855367,gdp
+United Kingdom,1977,2.36335094409922,gdp
+United Kingdom,1976,2.80465599545295,gdp
+United Kingdom,1975,-0.676870194049812,gdp
+United Kingdom,1974,-1.67969792645223,gdp
+United Kingdom,1973,7.31352424220155,gdp
+United Kingdom,1972,3.62637105743457,gdp
+United Kingdom,1971,2.00453760135888,gdp
+United Kingdom,1970,2.70858153682569,gdp
+United Kingdom,1969,1.93913774928538,gdp
+United Kingdom,1968,5.47269304472715,gdp
+United Kingdom,1967,2.77573771674906,gdp
+United Kingdom,1966,1.56744967539477,gdp
+United Kingdom,1965,2.13033310359295,gdp
+United Kingdom,2024,3.2715729463592,inflation
+United Kingdom,2023,6.79396706793963,inflation
+United Kingdom,2022,7.92204883147902,inflation
+United Kingdom,2021,2.51837109614213,inflation
+United Kingdom,2020,0.989486703772491,inflation
+United Kingdom,2019,1.73810460086513,inflation
+United Kingdom,2018,2.29283990345938,inflation
+United Kingdom,2017,2.55775577557747,inflation
+United Kingdom,2016,1.0084173681141,inflation
+United Kingdom,2015,0.36804684232536,inflation
+United Kingdom,2014,1.45112016293279,inflation
+United Kingdom,2013,2.29166666666659,inflation
+United Kingdom,2012,2.5732347965453,inflation
+United Kingdom,2011,3.8561124468282,inflation
+United Kingdom,2010,2.49265472467065,inflation
+United Kingdom,2009,1.96173173560109,inflation
+United Kingdom,2008,3.52140856342539,inflation
+United Kingdom,2007,2.38656150773327,inflation
+United Kingdom,2006,2.4556616643929,inflation
+United Kingdom,2005,2.0891364902507,inflation
+United Kingdom,2004,1.39039756680422,inflation
+United Kingdom,2003,1.37650038542013,inflation
+United Kingdom,2002,1.52040245947455,inflation
+United Kingdom,2001,1.53234960272418,inflation
+United Kingdom,2000,1.18295624210408,inflation
+United Kingdom,1999,1.7529508005142,inflation
+United Kingdom,1998,1.82056163731557,inflation
+United Kingdom,1997,2.20114313510882,inflation
+United Kingdom,1996,2.85178236397749,inflation
+United Kingdom,1995,2.69749518304432,inflation
+United Kingdom,1994,2.21901260504205,inflation
+United Kingdom,1993,2.55857796929705,inflation
+United Kingdom,1992,4.59154929577461,inflation
+United Kingdom,1991,7.46178295746934,inflation
+United Kingdom,1990,8.06346090938833,inflation
+United Kingdom,1989,5.76024909185262,inflation
+United Kingdom,1988,4.15535171583102,inflation
+United Kingdom,1987,4.14892232052945,inflation
+United Kingdom,1986,3.42760940369314,inflation
+United Kingdom,1985,6.07139434015119,inflation
+United Kingdom,1984,4.96071097821927,inflation
+United Kingdom,1983,4.60930327269779,inflation
+United Kingdom,1982,8.59886383332186,inflation
+United Kingdom,1981,11.8766265142296,inflation
+United Kingdom,1980,17.9659242656857,inflation
+United Kingdom,1979,13.4212799774012,inflation
+United Kingdom,1978,8.26314103860768,inflation
+United Kingdom,1977,15.8402667458768,inflation
+United Kingdom,1976,16.5595225588084,inflation
+United Kingdom,1975,24.2072876743291,inflation
+United Kingdom,1974,16.0440111889861,inflation
+United Kingdom,1973,9.19603316657812,inflation
+United Kingdom,1972,7.07109839479797,inflation
+United Kingdom,1971,9.44483742337133,inflation
+United Kingdom,1970,6.36656841727441,inflation
+United Kingdom,1969,5.44666363048887,inflation
+United Kingdom,1968,4.69742798827245,inflation
+United Kingdom,1967,2.48211560474804,inflation
+United Kingdom,1966,3.90961779211889,inflation
+United Kingdom,1965,4.77377455386914,inflation
+United Kingdom,2024,4.111,unemployment
+United Kingdom,2023,3.984,unemployment
+United Kingdom,2022,3.73,unemployment
+United Kingdom,2021,4.826,unemployment
+United Kingdom,2020,4.472,unemployment
+United Kingdom,2019,3.613,unemployment
+United Kingdom,2018,4.12,unemployment
+United Kingdom,2017,4.452,unemployment
+United Kingdom,2016,4.867,unemployment
+United Kingdom,2015,5.517,unemployment
+United Kingdom,2014,6.363,unemployment
+United Kingdom,2013,7.704,unemployment
+United Kingdom,2012,8.25,unemployment
+United Kingdom,2011,8.169,unemployment
+United Kingdom,2010,7.924,unemployment
+United Kingdom,2009,7.627,unemployment
+United Kingdom,2008,5.705,unemployment
+United Kingdom,2007,5.342,unemployment
+United Kingdom,2006,5.411,unemployment
+United Kingdom,2005,4.835,unemployment
+United Kingdom,2004,4.594,unemployment
+United Kingdom,2003,4.807,unemployment
+United Kingdom,2002,5.037,unemployment
+United Kingdom,2001,4.696,unemployment
+United Kingdom,2000,5.558,unemployment
+United Kingdom,1999,6.042,unemployment
+United Kingdom,1998,6.198,unemployment
+United Kingdom,1997,7.072,unemployment
+United Kingdom,1996,8.189,unemployment
+United Kingdom,1995,8.694,unemployment
+United Kingdom,1994,9.648,unemployment
+United Kingdom,1993,10.346,unemployment
+United Kingdom,1992,9.772,unemployment
+United Kingdom,1991,8.55,unemployment
+France,2024,1.19046798275883,gdp
+France,2023,1.43921494437743,gdp
+France,2022,2.71676264185913,gdp
+France,2021,6.88233783360239,gdp
+France,2020,-7.44064589948231,gdp
+France,2019,2.02744646419237,gdp
+France,2018,1.64590872395887,gdp
+France,2017,2.08361485997399,gdp
+France,2016,0.860031075424033,gdp
+France,2015,1.06675474783462,gdp
+France,2014,0.997832947295251,gdp
+France,2013,0.781756446231,gdp
+France,2012,0.183835264973013,gdp
+France,2011,2.43757653729007,gdp
+France,2010,2.00032476039051,gdp
+France,2009,-2.82455153714783,gdp
+France,2008,0.380171435849121,gdp
+France,2007,2.53048188351066,gdp
+France,2006,2.71406448755236,gdp
+France,2005,1.88856584109286,gdp
+France,2004,2.86825052501032,gdp
+France,2003,0.967827182558352,gdp
+France,2002,1.06775027069419,gdp
+France,2001,1.89946701186636,gdp
+France,2000,4.14099996402915,gdp
+France,1999,3.39930808809441,gdp
+France,1998,3.45259434279616,gdp
+France,1997,2.5270616339357,gdp
+France,1996,1.39707987198881,gdp
+France,1995,2.30479278392259,gdp
+France,1994,2.38366086110145,gdp
+France,1993,-0.35899781051468,gdp
+France,1992,1.5160611169627,gdp
+France,1991,1.23666248297356,gdp
+France,1990,2.82962715326478,gdp
+France,1989,4.40516927190527,gdp
+France,1988,4.81422400170246,gdp
+France,1987,2.55274621143047,gdp
+France,1986,2.38953554470334,gdp
+France,1985,1.56907436604108,gdp
+France,1984,1.60947146551595,gdp
+France,1983,1.26205761797051,gdp
+France,1982,2.44251268690125,gdp
+France,1981,1.18831474293866,gdp
+France,1980,1.67641337198611,gdp
+France,1979,3.69531078677157,gdp
+France,1978,3.94936216342872,gdp
+France,1977,3.55415568976466,gdp
+France,1976,4.33755647481964,gdp
+France,1975,-0.945609616912307,gdp
+France,1974,4.41471376407343,gdp
+France,1973,6.19458406640176,gdp
+France,1972,4.51410759995832,gdp
+France,1971,5.29344622836985,gdp
+France,1970,6.20017438615466,gdp
+France,1969,7.09364697994077,gdp
+France,1968,4.54401821190027,gdp
+France,1967,4.80177080876672,gdp
+France,1966,5.16354274190655,gdp
+France,1965,4.83875011249243,gdp
+France,2024,1.99904942291463,inflation
+France,2023,4.87835726508441,inflation
+France,2022,5.22236748369735,inflation
+France,2021,1.64233141038385,inflation
+France,2020,0.476498852725066,inflation
+France,2019,1.10825492288294,inflation
+France,2018,1.85081508315502,inflation
+France,2017,1.03228275064662,inflation
+France,2016,0.18333486112386,inflation
+France,2015,0.0375143805125182,inflation
+France,2014,0.50775882293799,inflation
+France,2013,0.863715497861805,inflation
+France,2012,1.9541953161351,inflation
+France,2011,2.11159795174994,inflation
+France,2010,1.53112270420926,inflation
+France,2009,0.0876204781574552,inflation
+France,2008,2.81286194914787,inflation
+France,2007,1.4879980595386,inflation
+France,2006,1.67512449608723,inflation
+France,2005,1.74586936380482,inflation
+France,2004,2.14208964640241,inflation
+France,2003,2.09847219146923,inflation
+France,2002,1.9234122872706,inflation
+France,2001,1.63478079549601,inflation
+France,2000,1.67595988720927,inflation
+France,1999,0.537141639134645,inflation
+France,1998,0.651126867833049,inflation
+France,1997,1.20394294026962,inflation
+France,1996,1.98288365089738,inflation
+France,1995,1.79648142095595,inflation
+France,1994,1.65551532926993,inflation
+France,1993,2.10446277124644,inflation
+France,1992,2.36376046269353,inflation
+France,1991,3.21340732409687,inflation
+France,1990,3.19428338029475,inflation
+France,1989,3.49830220700749,inflation
+France,1988,2.70081527508113,inflation
+France,1987,3.28889821400133,inflation
+France,1986,2.53852591781417,inflation
+France,1985,5.83109973854516,inflation
+France,1984,7.67380262247321,inflation
+France,1983,9.45954847235318,inflation
+France,1982,11.9784719523806,inflation
+France,1981,13.3144055680071,inflation
+France,1980,13.5625788483016,inflation
+France,1979,10.6467341716664,inflation
+France,1978,9.2505584672443,inflation
+France,1977,9.49455467190434,inflation
+France,1976,9.62549578155529,inflation
+France,1975,11.6859272493228,inflation
+France,1974,13.6493174728139,inflation
+France,1973,7.38060106398912,inflation
+France,1972,6.06300309718187,inflation
+France,1971,5.39751865595105,inflation
+France,1970,5.29964124562675,inflation
+France,1969,6.04596284173893,inflation
+France,1968,4.54320486402014,inflation
+France,1967,2.7917770943515,inflation
+France,1966,2.60200076636444,inflation
+France,1965,2.70310455873084,inflation
+France,2024,7.37,unemployment
+France,2023,7.335,unemployment
+France,2022,7.308,unemployment
+France,2021,7.874,unemployment
+France,2020,8.009,unemployment
+France,2019,8.415,unemployment
+France,2018,9.018,unemployment
+France,2017,9.409,unemployment
+France,2016,10.057,unemployment
+France,2015,10.354,unemployment
+France,2014,10.273,unemployment
+France,2013,9.913,unemployment
+France,2012,9.841,unemployment
+France,2011,9.228,unemployment
+France,2010,9.279,unemployment
+France,2009,9.122,unemployment
+France,2008,7.386,unemployment
+France,2007,8.008,unemployment
+France,2006,8.832,unemployment
+France,2005,8.882,unemployment
+France,2004,8.914,unemployment
+France,2003,8.306,unemployment
+France,2002,8.702,unemployment
+France,2001,8.61,unemployment
+France,2000,10.218,unemployment
+France,1999,11.981,unemployment
+France,1998,12.074,unemployment
+France,1997,12.566,unemployment
+France,1996,12.367,unemployment
+France,1995,11.834,unemployment
+France,1994,12.593,unemployment
+France,1993,11.32,unemployment
+France,1992,10.203,unemployment
+France,1991,9.134,unemployment
+Brazil,2024,3.41931516597739,gdp
+Brazil,2023,3.24165532813583,gdp
+Brazil,2022,3.01669435408112,gdp
+Brazil,2021,4.7626043797061,gdp
+Brazil,2020,-3.27675879612903,gdp
+Brazil,2019,1.22077782271943,gdp
+Brazil,2018,1.78366676137003,gdp
+Brazil,2017,1.32286905390815,gdp
+Brazil,2016,-3.2759169063211,gdp
+Brazil,2015,-3.54576339347278,gdp
+Brazil,2014,0.503955740273241,gdp
+Brazil,2013,3.0048226702888,gdp
+Brazil,2012,1.92117598509462,gdp
+Brazil,2011,3.97442307944702,gdp
+Brazil,2010,7.52822581812151,gdp
+Brazil,2009,-0.12581200299141,gdp
+Brazil,2008,5.09419544811998,gdp
+Brazil,2007,6.06987060733128,gdp
+Brazil,2006,3.96198870899485,gdp
+Brazil,2005,3.20213206216255,gdp
+Brazil,2004,5.75996463685998,gdp
+Brazil,2003,1.14082899877101,gdp
+Brazil,2002,3.05346185683619,gdp
+Brazil,2001,1.3898964044581,gdp
+Brazil,2000,4.38794944364869,gdp
+Brazil,1999,0.467937566679467,gdp
+Brazil,1998,0.338097901952338,gdp
+Brazil,1997,3.39484598531597,gdp
+Brazil,1996,2.20886405051482,gdp
+Brazil,1995,4.2237936336472,gdp
+Brazil,1994,5.8528703643893,gdp
+Brazil,1993,4.92469000463774,gdp
+Brazil,1992,-0.544072051030298,gdp
+Brazil,1991,1.0321895854696,gdp
+Brazil,1990,-4.35000000000022,gdp
+Brazil,1989,3.16000000000032,gdp
+Brazil,1988,-0.059999999999917,gdp
+Brazil,1987,3.52999999999983,gdp
+Brazil,1986,7.48999999999982,gdp
+Brazil,1985,7.85000000000042,gdp
+Brazil,1984,5.39999999999988,gdp
+Brazil,1983,-2.92999999999996,gdp
+Brazil,1982,0.829999999999529,gdp
+Brazil,1981,-4.24999999999956,gdp
+Brazil,1980,9.19999999999976,gdp
+Brazil,1979,6.7595601220408,gdp
+Brazil,1978,4.96989768924738,gdp
+Brazil,1977,4.93432806978961,gdp
+Brazil,1976,10.2571295347867,gdp
+Brazil,1975,5.16664908406321,gdp
+Brazil,1974,8.15393868457201,gdp
+Brazil,1973,13.9687217796782,gdp
+Brazil,1972,11.9403481162508,gdp
+Brazil,1971,11.3429219931908,gdp
+Brazil,1970,10.4,gdp
+Brazil,1969,9.49999999999993,gdp
+Brazil,1968,9.79999999999998,gdp
+Brazil,1967,4.2,gdp
+Brazil,1966,6.7000000000001,gdp
+Brazil,1965,2.40000000000001,gdp
+Brazil,2024,4.36746407652337,inflation
+Brazil,2023,4.59356282283204,inflation
+Brazil,2022,9.28010608956873,inflation
+Brazil,2021,8.30165975585673,inflation
+Brazil,2020,3.21176803803376,inflation
+Brazil,2019,3.73297621216894,inflation
+Brazil,2018,3.66485028376729,inflation
+Brazil,2017,3.44637335032669,inflation
+Brazil,2016,8.73914352329393,inflation
+Brazil,2015,9.02990102416136,inflation
+Brazil,2014,6.32904015516139,inflation
+Brazil,2013,6.20431066640101,inflation
+Brazil,2012,5.40349914036997,inflation
+Brazil,2011,6.6364496221309,inflation
+Brazil,2010,5.03872690108075,inflation
+Brazil,2009,4.88803479876799,inflation
+Brazil,2008,5.67859390284168,inflation
+Brazil,2007,3.64127299102652,inflation
+Brazil,2006,4.18356812896909,inflation
+Brazil,2005,6.86953720898964,inflation
+Brazil,2004,6.59718509985963,inflation
+Brazil,2003,14.7149197228147,inflation
+Brazil,2002,8.45016437708331,inflation
+Brazil,2001,6.84035902487523,inflation
+Brazil,2000,7.04414105947266,inflation
+Brazil,1999,4.85844749902667,inflation
+Brazil,1998,3.19507629280052,inflation
+Brazil,1997,6.92671251629154,inflation
+Brazil,1996,15.7576656002606,inflation
+Brazil,1995,66.0070335542481,inflation
+Brazil,1994,2075.88839757325,inflation
+Brazil,1993,1927.38079016026,inflation
+Brazil,1992,951.962053052818,inflation
+Brazil,1991,432.786661926461,inflation
+Brazil,1990,2947.732772483,inflation
+Brazil,1989,1430.7237251472,inflation
+Brazil,1988,629.114509120897,inflation
+Brazil,1987,228.336162575513,inflation
+Brazil,1986,147.142826237604,inflation
+Brazil,1985,225.989665211895,inflation
+Brazil,1984,192.121733132051,inflation
+Brazil,1983,135.027682230473,inflation
+Brazil,1982,100.54335919485,inflation
+Brazil,1981,101.725072957927,inflation
+Brazil,2024,7.634,unemployment
+Brazil,2023,7.947,unemployment
+Brazil,2022,9.231,unemployment
+Brazil,2021,13.158,unemployment
+Brazil,2020,13.697,unemployment
+Brazil,2019,11.936,unemployment
+Brazil,2018,12.329,unemployment
+Brazil,2017,12.792,unemployment
+Brazil,2016,11.58,unemployment
+Brazil,2015,8.538,unemployment
+Brazil,2014,6.755,unemployment
+Brazil,2013,7.071,unemployment
+Brazil,2012,7.251,unemployment
+Brazil,2011,7.578,unemployment
+Brazil,2010,8.422,unemployment
+Brazil,2009,9.419,unemployment
+Brazil,2008,8.268,unemployment
+Brazil,2007,9.28,unemployment
+Brazil,2006,9.692,unemployment
+Brazil,2005,10.551,unemployment
+Brazil,2004,10.072,unemployment
+Brazil,2003,11.168,unemployment
+Brazil,2002,10.641,unemployment
+Brazil,2001,10.649,unemployment
+Brazil,2000,10.889,unemployment
+Brazil,1999,11.125,unemployment
+Brazil,1998,10.15,unemployment
+Brazil,1997,9.003,unemployment
+Brazil,1996,8.035,unemployment
+Brazil,1995,7.092,unemployment
+Brazil,1994,6.578,unemployment
+Brazil,1993,6.03,unemployment
+Brazil,1992,7.086,unemployment
+Brazil,1991,6.894,unemployment
+Italy,2024,0.692676948440536,gdp
+Italy,2023,0.975694840127005,gdp
+Italy,2022,4.82117669913565,gdp
+Italy,2021,8.93106210800055,gdp
+Italy,2020,-8.86822122185345,gdp
+Italy,2019,0.429162533780342,gdp
+Italy,2018,0.826646712344115,gdp
+Italy,2017,1.60369995294101,gdp
+Italy,2016,1.23622108511661,gdp
+Italy,2015,0.885667635240807,gdp
+Italy,2014,-0.00138761730454462,gdp
+Italy,2013,-1.81802510749792,gdp
+Italy,2012,-3.12523877282996,gdp
+Italy,2011,0.695463154440176,gdp
+Italy,2010,1.52910573247101,gdp
+Italy,2009,-5.30515401233991,gdp
+Italy,2008,-1.02313851177097,gdp
+Italy,2007,1.46229205289291,gdp
+Italy,2006,1.79947992234244,gdp
+Italy,2005,0.762410677306491,gdp
+Italy,2004,1.4740217064723,gdp
+Italy,2003,0.0665538088732092,gdp
+Italy,2002,0.26992966378873,gdp
+Italy,2001,2.00643329837733,gdp
+Italy,2000,3.88209885062652,gdp
+Italy,1999,1.67799157943422,gdp
+Italy,1998,1.8043732818638,gdp
+Italy,1997,1.92572122608527,gdp
+Italy,1996,1.34558477192847,gdp
+Italy,1995,2.88683671925843,gdp
+Italy,1994,2.15102367074849,gdp
+Italy,1993,-0.852805731913904,gdp
+Italy,1992,0.834275417393798,gdp
+Italy,1991,1.53844759206665,gdp
+Italy,1990,1.98577491758405,gdp
+Italy,1989,3.38838350504491,gdp
+Italy,1988,4.19437725054567,gdp
+Italy,1987,3.19196062140115,gdp
+Italy,1986,2.85997186889063,gdp
+Italy,1985,2.79808575480784,gdp
+Italy,1984,3.22585239030356,gdp
+Italy,1983,1.16920342741862,gdp
+Italy,1982,0.413585694308892,gdp
+Italy,1981,0.844227628121416,gdp
+Italy,1980,3.43001634618649,gdp
+Italy,1979,5.95915952688955,gdp
+Italy,1978,3.24013978059317,gdp
+Italy,1977,2.56050082604729,gdp
+Italy,1976,7.12538510094043,gdp
+Italy,1975,-2.09016289171086,gdp
+Italy,1974,5.50014109691006,gdp
+Italy,1973,7.12586233109471,gdp
+Italy,1972,3.69048578366487,gdp
+Italy,1971,1.81810794624113,gdp
+Italy,1970,5.31050242854884,gdp
+Italy,1969,6.09805999558608,gdp
+Italy,1968,6.54455465470525,gdp
+Italy,1967,7.17861246556186,gdp
+Italy,1966,5.98479422519713,gdp
+Italy,1965,3.26802371964186,gdp
+Italy,2024,0.982373023061417,inflation
+Italy,2023,5.62219442195901,inflation
+Italy,2022,8.20128991161718,inflation
+Italy,2021,1.87378325762481,inflation
+Italy,2020,-0.13770757391651,inflation
+Italy,2019,0.611246943765304,inflation
+Italy,2018,1.13748763600391,inflation
+Italy,2017,1.22653316645812,inflation
+Italy,2016,-0.09401665691575,inflation
+Italy,2015,0.0387903996579733,inflation
+Italy,2014,0.241047429826756,inflation
+Italy,2013,1.21999342274306,inflation
+Italy,2012,3.04136333226775,inflation
+Italy,2011,2.78063272879323,inflation
+Italy,2010,1.52551602118248,inflation
+Italy,2009,0.774768131387381,inflation
+Italy,2008,3.34783258401022,inflation
+Italy,2007,1.82974112202403,inflation
+Italy,2006,2.09084391012754,inflation
+Italy,2005,1.9852929852798,inflation
+Italy,2004,2.20673661423657,inflation
+Italy,2003,2.6725555277285,inflation
+Italy,2002,2.46532319171165,inflation
+Italy,2001,2.78516542713554,inflation
+Italy,2000,2.53768532095002,inflation
+Italy,1999,1.66345995007714,inflation
+Italy,1998,1.95508557719381,inflation
+Italy,1997,2.04310779750136,inflation
+Italy,1996,4.0069766898104,inflation
+Italy,1995,5.23542258044301,inflation
+Italy,1994,4.05184218065716,inflation
+Italy,1993,4.62673468331298,inflation
+Italy,1992,5.2705899859293,inflation
+Italy,1991,6.24999929790291,inflation
+Italy,1990,6.456609061464,inflation
+Italy,1989,6.25983137956977,inflation
+Italy,1988,5.05824747667119,inflation
+Italy,1987,4.74728490389789,inflation
+Italy,1986,5.82354691862017,inflation
+Italy,1985,9.20599144253118,inflation
+Italy,1984,10.7944960076811,inflation
+Italy,1983,14.646576674877,inflation
+Italy,1982,16.4804146202214,inflation
+Italy,1981,17.9692987519672,inflation
+Italy,1980,21.0641682770745,inflation
+Italy,1979,14.7985735661484,inflation
+Italy,1978,12.0940138425074,inflation
+Italy,1977,17.13004878665,inflation
+Italy,1976,16.6141664725788,inflation
+Italy,1975,16.9505025668306,inflation
+Italy,1974,19.1597695854699,inflation
+Italy,1973,10.7986174547602,inflation
+Italy,1972,5.74950393730007,inflation
+Italy,1971,4.79166438333786,inflation
+Italy,1970,4.96831987329335,inflation
+Italy,1969,2.65725273386972,inflation
+Italy,1968,1.27731335390797,inflation
+Italy,1967,3.73333832073822,inflation
+Italy,1966,2.34658893413318,inflation
+Italy,1965,4.51926830743458,inflation
+Italy,2024,6.778,unemployment
+Italy,2023,7.627,unemployment
+Italy,2022,8.069,unemployment
+Italy,2021,9.497,unemployment
+Italy,2020,9.164,unemployment
+Italy,2019,9.951,unemployment
+Italy,2018,10.61,unemployment
+Italy,2017,11.211,unemployment
+Italy,2016,11.688,unemployment
+Italy,2015,11.896,unemployment
+Italy,2014,12.683,unemployment
+Italy,2013,12.149,unemployment
+Italy,2012,10.655,unemployment
+Italy,2011,8.359,unemployment
+Italy,2010,8.363,unemployment
+Italy,2009,7.749,unemployment
+Italy,2008,6.723,unemployment
+Italy,2007,6.076,unemployment
+Italy,2006,6.777,unemployment
+Italy,2005,7.73,unemployment
+Italy,2004,7.866,unemployment
+Italy,2003,8.869,unemployment
+Italy,2002,9.211,unemployment
+Italy,2001,9.599,unemployment
+Italy,2000,10.834,unemployment
+Italy,1999,11.681,unemployment
+Italy,1998,12.117,unemployment
+Italy,1997,11.985,unemployment
+Italy,1996,11.864,unemployment
+Italy,1995,11.661,unemployment
+Italy,1994,11.086,unemployment
+Italy,1993,10.212,unemployment
+Italy,1992,9.321,unemployment
+Italy,1991,10.097,unemployment
+Canada,2024,1.55479521049516,gdp
+Canada,2023,1.52874550838358,gdp
+Canada,2022,4.18903628100851,gdp
+Canada,2021,5.95052802804381,gdp
+Canada,2020,-5.03823343468899,gdp
+Canada,2019,1.90843194590616,gdp
+Canada,2018,2.74296344906655,gdp
+Canada,2017,3.03383491200222,gdp
+Canada,2016,1.03855092490855,gdp
+Canada,2015,0.649971001734855,gdp
+Canada,2014,2.87346677785811,gdp
+Canada,2013,2.32581354806429,gdp
+Canada,2012,1.75566129145483,gdp
+Canada,2011,3.13719442170364,gdp
+Canada,2010,3.09080634469335,gdp
+Canada,2009,-2.91508621550267,gdp
+Canada,2008,0.995406301140747,gdp
+Canada,2007,2.04990463726786,gdp
+Canada,2006,2.63794375007348,gdp
+Canada,2005,3.21045439063563,gdp
+Canada,2004,3.09236384292251,gdp
+Canada,2003,1.80638512302554,gdp
+Canada,2002,2.99925535017809,gdp
+Canada,2001,1.87509810696022,gdp
+Canada,2000,5.1385391803606,gdp
+Canada,1999,5.14100353715349,gdp
+Canada,1998,3.89288654344983,gdp
+Canada,1997,4.28016683621337,gdp
+Canada,1996,1.68896122499937,gdp
+Canada,1995,2.68232822733793,gdp
+Canada,1994,4.49404929532982,gdp
+Canada,1993,2.65770691557481,gdp
+Canada,1992,0.890466180427183,gdp
+Canada,1991,-2.0910550979319,gdp
+Canada,1990,0.202947874139198,gdp
+Canada,1989,2.33732975738413,gdp
+Canada,1988,4.41083900341744,gdp
+Canada,1987,4.07201574110678,gdp
+Canada,1986,2.12148083355379,gdp
+Canada,1985,4.73768081475092,gdp
+Canada,1984,5.8985694010334,gdp
+Canada,1983,2.56225358775578,gdp
+Canada,1982,-3.16615022065891,gdp
+Canada,1981,3.41506518150013,gdp
+Canada,1980,2.17719921287991,gdp
+Canada,1979,3.72519949149593,gdp
+Canada,1978,3.73597638764802,gdp
+Canada,1977,3.53482660580218,gdp
+Canada,1976,5.88927586333716,gdp
+Canada,1975,1.5454033263216,gdp
+Canada,1974,3.35777600467976,gdp
+Canada,1973,6.72864134770903,gdp
+Canada,1972,5.51967005803644,gdp
+Canada,1971,4.01884508716894,gdp
+Canada,1970,2.91871307258708,gdp
+Canada,1969,5.06703236278922,gdp
+Canada,1968,5.00827404258794,gdp
+Canada,1967,3.06542080784173,gdp
+Canada,1966,6.75969011988171,gdp
+Canada,1965,6.31720005153649,gdp
+Canada,2024,2.38158383281173,inflation
+Canada,2023,3.87900159788426,inflation
+Canada,2022,6.80280115341613,inflation
+Canada,2021,3.39519318527528,inflation
+Canada,2020,0.716999632307827,inflation
+Canada,2019,1.94926902411593,inflation
+Canada,2018,2.26822567248103,inflation
+Canada,2017,1.59688412852977,inflation
+Canada,2016,1.42875954701085,inflation
+Canada,2015,1.12524136094277,inflation
+Canada,2014,1.90663590717861,inflation
+Canada,2013,0.938291897815317,inflation
+Canada,2012,1.51567823124517,inflation
+Canada,2011,2.91213508872351,inflation
+Canada,2010,1.77687154092627,inflation
+Canada,2009,0.299466803009299,inflation
+Canada,2008,2.37027067444299,inflation
+Canada,2007,2.13838399266837,inflation
+Canada,2006,2.00202539534161,inflation
+Canada,2005,2.21355203439767,inflation
+Canada,2004,1.85725871857256,inflation
+Canada,2003,2.75856321360112,inflation
+Canada,2002,2.25839440940855,inflation
+Canada,2001,2.52512013979906,inflation
+Canada,2000,2.71943995691976,inflation
+Canada,1999,1.73484295105918,inflation
+Canada,1998,0.99594245665802,inflation
+Canada,1997,1.62121638084531,inflation
+Canada,1996,1.57053112507138,inflation
+Canada,1995,2.14876033057849,inflation
+Canada,1994,0.165562913907291,inflation
+Canada,1993,1.86507936507939,inflation
+Canada,1992,1.49013290374545,inflation
+Canada,1991,5.62586408593005,inflation
+Canada,1990,4.78047693336304,inflation
+Canada,1989,4.98362189985958,inflation
+Canada,1988,4.02823414871611,inflation
+Canada,1987,4.3561087122174,inflation
+Canada,1986,4.19478629085621,inflation
+Canada,1985,3.96203054065205,inflation
+Canada,1984,4.30477830391737,inflation
+Canada,1983,5.86358802977368,inflation
+Canada,1982,10.7689718997139,inflation
+Canada,1981,12.4716124148372,inflation
+Canada,1980,10.1292205085453,inflation
+Canada,1979,9.14467697907181,inflation
+Canada,1978,8.97372335151214,inflation
+Canada,1977,7.9764453961457,inflation
+Canada,1976,7.54173862982148,inflation
+Canada,1975,10.672188595094,inflation
+Canada,1974,10.997171145686,inflation
+Canada,1973,7.48764728240211,inflation
+Canada,1972,4.98802873104551,inflation
+Canada,1971,2.70491803278685,inflation
+Canada,1970,3.34603981363832,inflation
+Canada,1969,4.56155890168292,inflation
+Canada,1968,4.05529953917047,inflation
+Canada,1967,3.57995226730312,inflation
+Canada,1966,3.81565906838453,inflation
+Canada,1965,2.33265720081135,inflation
+Canada,2024,6.45,unemployment
+Canada,2023,5.415,unemployment
+Canada,2022,5.279,unemployment
+Canada,2021,7.527,unemployment
+Canada,2020,9.657,unemployment
+Canada,2019,5.69,unemployment
+Canada,2018,5.837,unemployment
+Canada,2017,6.426,unemployment
+Canada,2016,7.038,unemployment
+Canada,2015,6.945,unemployment
+Canada,2014,7.023,unemployment
+Canada,2013,7.143,unemployment
+Canada,2012,7.392,unemployment
+Canada,2011,7.637,unemployment
+Canada,2010,8.178,unemployment
+Canada,2009,8.46,unemployment
+Canada,2008,6.284,unemployment
+Canada,2007,6.156,unemployment
+Canada,2006,6.484,unemployment
+Canada,2005,6.758,unemployment
+Canada,2004,7.185,unemployment
+Canada,2003,7.574,unemployment
+Canada,2002,7.665,unemployment
+Canada,2001,7.219,unemployment
+Canada,2000,6.829,unemployment
+Canada,1999,7.583,unemployment
+Canada,1998,8.278,unemployment
+Canada,1997,9.1,unemployment
+Canada,1996,9.62,unemployment
+Canada,1995,9.489,unemployment
+Canada,1994,10.395,unemployment
+Canada,1993,11.377,unemployment
+Canada,1992,11.197,unemployment
+Canada,1991,10.316,unemployment
