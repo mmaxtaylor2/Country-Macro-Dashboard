@@ -13,8 +13,16 @@ df = load_data()
 st.title("Country Macro Dashboard")
 
 countries = sorted(df["Country"].unique().tolist())
-view = st.sidebar.radio("View Mode", ["Country", "Compare"])
 
+# ---- VIEW SELECTOR ----
+view = st.sidebar.radio(
+    "View Mode",
+    ["Country", "Compare", "Analytics"]
+)
+
+# =========================
+# COUNTRY VIEW
+# =========================
 if view == "Country":
     country = st.selectbox("Select Country", countries)
     cdf = df[df["Country"] == country]
@@ -64,9 +72,12 @@ if view == "Country":
         st.plotly_chart(fig10, use_container_width=True)
 
     st.write("Underlying Data")
-    st.dataframe(cdf)
+    st.dataframe(cdf.reset_index(drop=True))
 
-else:
+# =========================
+# COMPARE VIEW
+# =========================
+elif view == "Compare":
     st.subheader("Multi-Country Comparison")
 
     metric = st.selectbox("Select Indicator", [
@@ -81,5 +92,83 @@ else:
     st.plotly_chart(fig, use_container_width=True)
 
     st.write("Underlying Data")
-    st.dataframe(cdf[cdf["Country"].isin(selected)])
+    st.dataframe(cdf.reset_index(drop=True))
 
+# =========================
+# ANALYTICS VIEW
+# =========================
+elif view == "Analytics":
+    st.subheader("Macro Analytics")
+
+    st.write("Cross-country analytical tools including heatmaps, regime classification, and diagnostic summaries.")
+
+    # ---- HEATMAP SECTION ----
+    st.header("Heatmap Comparison")
+
+    heat_metric = st.selectbox("Select Metric for Heatmap", [
+        "GDP_Growth", "Inflation", "Policy_Rate", "TenY_Yield",
+        "Debt_GDP", "Fiscal_Balance", "Current_Account", "FX_Dep_YoY"
+    ])
+
+    heat_year = st.slider("Select Year", int(df["Year"].min()), int(df["Year"].max()), int(df["Year"].max()))
+
+    heat_df = df[df["Year"] == heat_year][["Country", heat_metric]].set_index("Country")
+
+    st.dataframe(heat_df)
+
+    fig = px.imshow(
+        heat_df,
+        text_auto=True,
+        aspect="auto",
+        color_continuous_scale="RdYlGn_r",
+        title=f"{heat_metric} Heatmap ({heat_year})"
+    )
+    st.plotly_chart(fig, use_container_width=True)
+
+    # ---- REGIME CLASSIFICATION ----
+    st.header("Regime Classification")
+
+    def classify_inflation(x):
+        if x < 3: return "Low"
+        elif x < 8: return "Moderate"
+        elif x < 20: return "High"
+        else: return "Extreme"
+
+    def classify_monetary(policy, infl):
+        real_rate = policy - infl
+        if real_rate > 2: return "Restrictive"
+        elif real_rate > -2: return "Neutral"
+        else: return "Loose"
+
+    def classify_fiscal(x):
+        if x > -2: return "Neutral"
+        elif x > -5: return "Slippage"
+        else: return "Stress"
+
+    def classify_external(x):
+        if x > 2: return "Surplus"
+        elif x > -2: return "Balanced"
+        else: return "Deficit"
+
+    reg_year = st.slider("Select Year for Regime Classification", int(df["Year"].min()), int(df["Year"].max()), int(df["Year"].max()))
+
+    reg_df = df[df["Year"] == reg_year].copy()
+    reg_df["Inflation_Regime"] = reg_df["Inflation"].apply(classify_inflation)
+    reg_df["Monetary_Stance"] = reg_df.apply(lambda x: classify_monetary(x["Policy_Rate"], x["Inflation"]), axis=1)
+    reg_df["Fiscal_Position"] = reg_df["Fiscal_Balance"].apply(classify_fiscal)
+    reg_df["External_Position"] = reg_df["Current_Account"].apply(classify_external)
+
+    st.dataframe(reg_df[[
+        "Country", "Inflation_Regime", "Monetary_Stance", "Fiscal_Position", "External_Position"
+    ]].reset_index(drop=True))
+
+    # ---- DIAGNOSTIC SUMMARY ----
+    st.header("Diagnostic Summary")
+
+    for _, row in reg_df.iterrows():
+        st.markdown(f"### {row['Country']} ({reg_year})")
+        st.write(f"- Inflation Regime: **{row['Inflation_Regime']}**")
+        st.write(f"- Monetary Stance: **{row['Monetary_Stance']}**")
+        st.write(f"- Fiscal Position: **{row['Fiscal_Position']}**")
+        st.write(f"- External Position: **{row['External_Position']}**")
+        st.markdown("---")
